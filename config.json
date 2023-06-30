@@ -1,0 +1,7 @@
+{
+    "Debug": false,
+    "Retries": 0,
+    "ServeNodes": [
+        "relay+wss://:8443/127.0.0.1:443"
+    ]
+}
